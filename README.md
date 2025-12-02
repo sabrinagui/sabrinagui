@@ -1,5 +1,5 @@
 ## Sabrina Mesquita
-Oi, sou Sabrina Mesquita, uma desenvolvedora <b>front-end júnior</b> apaixonada por transformar ideias em experiências digitais. Especializada em HTML, CSS, JavaScript e React, busco constantemente aprimorar minhas habilidades. Empolgada para contribuir em projetos inovadores e continuar aprendendo na comunidade de desenvolvimento. Vamos criar algo incrível juntos! 🚀
+Oi, sou Sabrina Mesquita, uma desenvolvedora <b>front-end </b> apaixonada por transformar ideias em experiências digitais. Especializada em HTML, CSS, JavaScript e React, busco constantemente aprimorar minhas habilidades. Empolgada para contribuir em projetos inovadores e continuar aprendendo na comunidade de desenvolvimento. Vamos criar algo incrível juntos! 🚀
 
 
 
